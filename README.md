@@ -44,17 +44,18 @@
 
 ## 我的专业是人工智能
 
-## 我最喜欢的一段代码
+### 我最喜欢的一段代码
 
-'''dev_skills_env.py中代码
-port numpy as np
-print(np.array([1, 2, 3]) ** 2)'''
+```dev_skills_env.py中代码
+import numpy as np
+print(np.array([1, 2, 3]) ** 2)
+```
 
-其中执行'print(np.array([1, 2, 3]) ** 2)'会输出"[1 4 9]"。
-我最喜欢的环境管理工具是conda。
+其中执行`print(np.array([1, 2, 3]) ** 2)`会输出"[1 4 9]"。
+### 我最喜欢的环境管理工具是conda。
 <img src="C:\Users\z\Pictures\Screenshots" width="800" alt="01 环境搭建的截图一">
 
-我可以在IDE上使用我建立的虚拟环境。
+### 我可以在IDE上使用我建立的虚拟环境。
 
 <img src="C:\Users\z\Pictures\Screenshots" width="800" alt="01 环境搭建的截图一">
 '''
