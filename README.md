@@ -26,7 +26,7 @@
  
 ### 重要坐标
  
-- [住址] (https://www.tstingmi.com/TST/293079.html)
+- [住址] (https://baike.baidu.com/item/%E8%83%A1%E5%9B%BE%E5%9B%BE/7174038)
 
 ### 日常作息表
 | 时间 | 活动 |
