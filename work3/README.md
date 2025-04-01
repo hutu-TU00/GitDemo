@@ -1,5 +1,3 @@
-# classify运行结果
-<img src="https://github.com/hutu-TU00/GitDemo/blob/main/work3/classify.png" width="800" alt="01 环境搭建的截图一">
 
 # 邮件分类项目
 
@@ -58,5 +56,18 @@ features, vectorizer = get_features(texts, feature_type='frequency')
 
 # 使用TF-IDF特征
 features, vectorizer = get_features(texts, feature_type='tfidf')
+```
+# classify运行结果
+<img src="https://github.com/hutu-TU00/GitDemo/blob/main/work3/classify.png" width="800" alt="01 环境搭建的截图一">
+
+# TF-IDF运行结果
+<img src="https://github.com/hutu-TU00/GitDemo/blob/main/work3/TF.png" width="800" alt="01 环境搭建的截图一">
+
+# 样本平衡处理运行结果
+<img src="https://github.com/hutu-TU00/GitDemo/blob/main/work3/SMOTE.png" width="800" alt="01 环境搭建的截图一">
+
+# 增加模型评估指标运行结果
+<img src="https://github.com/hutu-TU00/GitDemo/blob/main/work3/scikit.png" width="800" alt="01 环境搭建的截图一">
+
 
 
